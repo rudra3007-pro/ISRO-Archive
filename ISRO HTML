@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISRO Missions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div>
+        <p><b><u>ISRO MISSIONS</u></b></p>
+    </div>
+    <p style="color: rgb(0, 0, 0);"><b>Hello everyone...In this website , the details of some isro mission and their videos are
+            present...Hope you
+            like it.</b></p>
+    <h2>MARS ORBITER MISSION(MANGALYAAN)</h2>
+    <p><b>Mars Orbiter Mission (MOM), unofficially known as Mangalyaan (Sanskrit: Maṅgala 'Mars', Yāna 'Craft,
+            Vehicle'), was a space probe orbiting Mars since 24 September 2014. It was launched on 5 November 2013 by
+            the Indian Space Research Organisation (ISRO). It was India's first interplanetary mission and it made ISRO
+            the fourth space agency to achieve Mars orbit, after Soviet space program, NASA, and the European Space
+            Agency. It made India the first Asian nation to reach Martian orbit and the second national space agency in
+            the world to do so on its maiden attempt after the European Space Agency did in 2003.</b></p>
+    <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/qSqaMuo4Ook?si=JDuyY-beH2qGHMzx"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+    <h2>CHANDRAYAAN 1</h2>
+    <p><b>Chandrayaan-1 (pronunciation; from Sanskrit: Chandra, "Moon" and yāna, "craft, vehicle") was the first Indian
+            lunar probe under the Chandrayaan programme. It was launched by the Indian Space Research Organisation
+            (ISRO) in October 2008, and operated until August 2009. The mission consisted of an orbiter and an impactor.
+            India launched the spacecraft using a PSLV-XL rocket on 22 October 2008 at 00:52 UTC from Satish Dhawan
+            Space Centre, at Sriharikota, Andhra Pradesh.The mission was a major boost to India's space program, as
+            India researched and developed its own technology to explore the Moon.The vehicle was inserted into lunar
+            orbit on 8 November 2008.
+            <br>
+            <br>
+            On 14 November 2008, the Moon Impact Probe separated from the Chandrayaan orbiter at 14:36 UTC and struck
+            the south pole in a controlled manner. The probe hit near the crater Shackleton at 15:01 UTC.The location of
+            the impact was named Jawahar Point.With this mission, ISRO became the fifth national space agency to reach
+            the lunar surface. Other nations whose national space agencies achieved similar feats were the former Soviet
+            Union in 1959,the United States in 1962, Japan in 1993, and European Space Agency member states in 2006.
+            <br>
+            <br>
+            The estimated cost for the project was ₹386 crore (US$88.73 million). It was intended to survey the lunar
+            surface for over two years, to produce a complete map of the chemical composition at the surface and its
+            three-dimensional topography. The polar regions were of special interest as there was a high chance of
+            finding water ice.One of its many achievements was the discovery of the widespread presence of water
+            molecules in lunar soil.
+            <br>
+            <br>
+            After almost a year, the orbiter started experiencing several technical issues including failure of the star
+            tracker and poor thermal shielding; Chandrayaan-1 stopped communicating at about 20:00 UTC on 28 August
+            2009, shortly after which the ISRO officially declared that the mission was over. Chandrayaan-1 operated for
+            312 days as opposed to the intended two years; however, the mission achieved most of its scientific
+            objectives, including detecting the presence of Lunar water.
+            <br>
+            <br>
+            On 2 July 2016, NASA used ground-based radar systems to relocate Chandrayaan-1 in its lunar orbit, almost
+            seven years after it shut down.Repeated observations over the next three months allowed a precise
+            determination of its orbit which varies between 150 and 270 km (93 and 168 mi) in altitude every two years.
+        </b></p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8iCsEL04g6M?si=HxUq53aHI2L8GfpC"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <h2>CHANDRAYAAN - 3</h2>
+    <p><b>
+            Chandrayaan-3 is the third mission in the Chandrayaan programme, a series of lunar-exploration missions
+            developed by the Indian Space Research Organisation (ISRO).The mission consists of a Vikram lunar lander and
+            a Pragyan lunar rover was launched from Satish Dhawan Space Centre on 14 July 2023. The spacecraft entered
+            lunar orbit on 5 August, and India became the first country to touch down near the lunar south pole, at
+            69°S, the southernmost lunar landing on 23 August 2023 at 18:04 IST (12:33 UTC), ISRO became the first
+            agency to land near the south pole of the moon in its first attempt and overall the fourth space agency to
+            successfully land on the Moon, after USSR, NASA and the CNSA.
+            <br>
+            <br>
+            Chandrayaan-3 was launched from Satish Dhawan Space Centre on 14 July 2023. The spacecraft entered lunar
+            orbit on 5 August, and became the first lander to touch down near the lunar south poleon 23 August at 18:03
+            IST (12:33 UTC), making India the fourth country to successfully land on the Moon, and at 69°S, the
+            southernmost lunar landing, until IM-1 landed further southwards in Malapert A crater on 22 February
+            2024.The lander was not built to withstand the cold temperatures of the lunar night, and sunset over the
+            landing site ended the surface mission twelve days after landing.The propulsion module, still operational,
+            transited back to a high Earth orbit from lunar orbit on 22 November 2023 for continued scientific
+            observations of Earth.It operated until 22 August 2024.
+        </b></p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DLA_64yz8Ss?si=GJZleTwDGATpfzhN"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h2>SpaDeX</h2>
+    <p><b>
+            SpaDeX or Space Docking Experiment is a twin satellite mission developed by the Indian Space Research
+            Organisation (ISRO) to mature and demonstrate technologies related to orbital rendezvous, docking, formation
+            flying, which will have future applications in areas such as human spaceflight, in-space satellite servicing
+            and other proximity operations.
+            <br>
+            <br>
+            SpaDeX consists of two modified IMS-1 class satellites weighing 220 kg each. During proximity operations one
+            spacecraft acts as a Chaser and other acts as a Target.
+            <br>
+            <br>
+            Both spacecraft were launched togetherfrom the First Launch Pad of Satish Dhawan Space Centre aboard
+            a dedicated Polar Satellite Launch Vehicle on 30 December 2024 at 16:30:15 UTC and subsequently injected
+            into slightly different orbits.
+            <br>
+            <br>
+            After deployment, the two spacecraft then executed manoeuvres to bring them together again. The Chaser
+            (SDX01) approached the target (SDX02) and then carried out precision manoeuvres to complete a successful
+            docking.With this success, India became only the fourth country to achieve successful space docking
+            —following the United States, Russia and China.
+
+        </b></p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9REPYHXjBIo?si=iznyLVYl1nwp146V"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p><b><i><u>Thank you everyone for visiting my website...</u></i></b></p>
+    <p><b>Please select the rating you give you this website</b></p>
+    <select name="Hello" id="kl">
+        <option value="select">Select</option>
+        <option value="Very Good">Very Good</option>
+        <option value="Good">Good</option>
+        <option value="Moderate">Moderate</option>
+        <option value="Bad">Bad</option>
+    </select>
+    <p><b>Also share your opinions</b></p>
+    <input type="text" name="Tec" id="tes" placeholder="Enter your views here...">
+    <script src="script.js"></script>
+</body>
+
+</html>
